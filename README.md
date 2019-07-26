@@ -1,0 +1,2 @@
+# CompressionTool
+使用SharpZipLib创建的控制台版压缩程序，支持非同一目录下的文件压缩
